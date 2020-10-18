@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my skin is as fair as a 1kW white LED, and i'm as bright as a -1kW white LED.
 
-also another fun fact the github pages thing is broken and wont give me a nice url
-
-i want my 0 dollars back
+im a professional
