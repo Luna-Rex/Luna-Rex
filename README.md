@@ -6,7 +6,7 @@ wowie i found a secret
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on surviving a pandemic and making Godot games
+- 🔭 I’m currently working on surviving a pandemic and making Godot games (if i havent updated this in 2021 i probably failed the first goal)
 - 🌱 I’m currently learning Godot
 - 👯 I’m looking to collaborate on stuff where I get money for it, and also possibly things where I don't?? depends
 - 🤔 I’m looking for help with most of the things I do, so feel free to offer it
