@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about video game soundtracks and I will tell you about a track I like.
 - 📫 How to reach me: [@Moonasaur](https://twitter.com/Moonasaur)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: the half-life of my attention span is 1 hour, multiplied by the excitement that the potential of the project inspires, divided by the scale of the project, or `1*e/s`
+- ⚡ Fun fact: the half-life of my attention span is roughly 2 hours, multiplied by the excitement that the potential of the project inspires, divided by the scale of the project, or `2*e/s hours`
