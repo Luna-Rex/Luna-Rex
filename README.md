@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about video game soundtracks and I will tell you about a track I like.
 - 📫 How to reach me: [@Moonasaur](https://twitter.com/Moonasaur)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: my skin is as fair as a 1kW white LED, and i'm as bright as a -1kW white LED.
+- ⚡ Fun fact: the half-life of my attention span is 1 hour times the excitement of a project divided by the scale of the project
