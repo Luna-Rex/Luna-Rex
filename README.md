@@ -2,7 +2,7 @@
 
 wowie i found a secret
 
-**Luna-Rex/luna-rex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. (wow!!)
+**Lunarexxy/lunarexxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. (wow!!)
 
 Here are some ideas to get you started:
 
