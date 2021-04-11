@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Godot, Java, and Minecraft modding
 - 🤔 If you find a mistake in my code or writing, feel free to suggest a fix.
 - 💬 Ask me about video game soundtracks and I will tell you about a track I like.
-- 📫 How to reach me: [@Moonasaur](https://twitter.com/Moonasaur)
+- 📫 How to reach me: [@Lunarexxy](https://twitter.com/Lunarexxy)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: You can get squirrels to run obstacle courses
